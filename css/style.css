@@ -122,6 +122,12 @@ a {
     width: 25%;
 }
 
+/* Icon */
+
+#icon {
+    padding: 5px;
+}
+
 /* About */
 
 #features {
